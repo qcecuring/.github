@@ -1,4 +1,7 @@
-# QCecuring
+# QCecuring Technologies
+
+image![My Banner](images/herosection.png)
+
 
 Enterprise-grade machine identity management, certificate lifecycle automation, and secure code signing for modern cloud-native infrastructure.
 
