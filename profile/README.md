@@ -1,7 +1,5 @@
 # QCecuring Technologies
 
-image![](/images/herosection.png)
-
 <img src="/images/herosection.png" width="100%" />
 
 Enterprise-grade machine identity management, certificate lifecycle automation, and secure code signing for modern cloud-native infrastructure.
